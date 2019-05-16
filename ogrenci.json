@@ -1,0 +1,74 @@
+{
+    "ogrenciler": [
+        {
+            "isim": "elif",
+            "no": 1214,
+            "ort": 89,
+            "kayit": 2013,
+            "bolum": "matematik"
+        },
+        {
+            "isim": "mahmut",
+            "no": 6565,
+            "ort": 67,
+            "kayit": 2015,
+            "bolum": "matematik"
+        },
+        {
+            "isim": "metin",
+            "no": 334,
+            "ort": 69,
+            "kayit": 2015,
+            "bolum": "matematik"
+        },
+        {
+            "isim": "levent",
+            "no": 64,
+            "ort": 45,
+            "kayit": 2015,
+            "bolum": "kimya"
+        },
+        {
+            "isim": "seda",
+            "no": 543,
+            "ort": 65,
+            "kayit": 2015,
+            "bolum": "kimya"
+        },
+        {
+            "isim": "yesim",
+            "no": 432,
+            "ort": 78,
+            "kayit": 2014,
+            "bolum": "bio"
+        },
+        {
+            "isim": "mustafa",
+            "no": 654,
+            "ort": 88,
+            "kayit": 2014,
+            "bolum": "bio"
+        },
+        {
+            "isim": "recep",
+            "no": 52342,
+            "ort": 33,
+            "kayit": 2018,
+            "bolum": "kimya"
+        },
+        {
+            "isim": "tayfun",
+            "no": 42342,
+            "ort": 75,
+            "kayit": 2016,
+            "bolum": "matematik"
+        },
+        {
+            "isim": "sayan",
+            "no": 52342,
+            "ort": 55,
+            "kayit": 2011,
+            "bolum": "fizik"
+        }
+    ]
+}
